@@ -1,2 +1,2 @@
-# leetcode
+# Leetcode
 A repo for leetcode code
